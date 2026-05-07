@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Silicon Curious</title>
+    <link>https://echoscarrie-lab.github.io/silicon-curious</link>
+    <language>en</language>
+    <copyright>Copyright 2026 Xia Chen</copyright>
+    <description>Silicon Curious explores AI tools, model behavior, creative work, and the strange future of human-machine conversation. Episodes may include AI-assisted audio, writing, or dialogue, and are reviewed and edited by a human creator before publication.</description>
+    <itunes:author>Xia Chen</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://echoscarrie-lab.github.io/silicon-curious/podcast/artwork/silicon-curious-cover.png"/>
+    <item>
+      <title>Episode 1: Can AI Poetry Have a Soul?</title>
+      <description>GPT-5.5, GPT-4o, and Opus walk into a love poem.
+
+In this episode of Silicon Curious, I fed my own AI conversations into NotebookLM and turned them into an 18-minute dialogue about AI poetry, desire, restraint, and "soul." The discussion compares GPT-4o, GPT-5.5, and Claude Opus through the strange lens of romantic and literary writing. It's less about ranking models, and more about what we think we hear when machines write like they feel something.
+
+This episode includes AI-assisted audio and dialogue. It was reviewed and edited by a human creator before publication.</description>
+      <content:encoded><![CDATA[
+        <p>GPT-5.5, GPT-4o, and Opus walk into a love poem.</p>
+        <p>In this episode of Silicon Curious, I fed my own AI conversations into NotebookLM and turned them into an 18-minute dialogue about AI poetry, desire, restraint, and "soul." The discussion compares GPT-4o, GPT-5.5, and Claude Opus through the strange lens of romantic and literary writing. It's less about ranking models, and more about what we think we hear when machines write like they feel something.</p>
+        <p>This episode includes AI-assisted audio and dialogue. It was reviewed and edited by a human creator before publication.</p>
+      ]]></content:encoded>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0800</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>18:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">silicon-curious-episode-001-can-ai-poetry-have-a-soul</guid>
+      <enclosure
+        url="https://echoscarrie-lab.github.io/silicon-curious/podcast/media/Claude_3_Opus_Versus_GPT-4o_on_Desire.m4a"
+        length="36304264"
+        type="audio/mp4"/>
+    </item>
+  </channel>
+</rss>
