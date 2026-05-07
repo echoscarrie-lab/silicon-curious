@@ -31,9 +31,9 @@ This episode includes AI-assisted audio and dialogue. It was reviewed and edited
       <itunes:explicit>false</itunes:explicit>
       <guid isPermaLink="false">silicon-curious-episode-001-can-ai-poetry-have-a-soul</guid>
       <enclosure
-        url="https://echoscarrie-lab.github.io/silicon-curious/podcast/media/Claude_3_Opus_Versus_GPT-4o_on_Desire.m4a"
-        length="36304264"
-        type="audio/mp4"/>
+        url="https://echoscarrie-lab.github.io/silicon-curious/podcast/media/Claude_3_Opus_Versus_GPT-4o_on_Desire.mp3"
+        length="13537000"
+        type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
